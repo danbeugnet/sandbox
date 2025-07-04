@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Over the course of my career, I have served as director of Tallahassee State College's (TSC) Undergraduate Research Program, co-director of the college's Quality Enhancement Plan (QEP), and as an active member of numerous committees and working groups. In these roles, I have produced a trove of work products that serve as examples of my skills and abilities. Below you will find examples of some of these, including internal evaluations, reports, and policy briefs. Please note that some documents bear TSC's former name, Tallahassee Community College, by which the college was known until July 1, 2024.
       filters:
         folders:
           - project
