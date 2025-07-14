@@ -20,7 +20,7 @@ sections:
 
 
 
-        Beugnet, D. (2024). _Opportunity Realized: Successful Implementation of Undergraduate Research at Three Geographically Diverse Community Colleges._ [Dissertation] https://purl.lib.fsu.edu/diginole/Beugnet_fsu_0071E_18427](https://repository.lib.fsu.edu/islandora/object/fsu:927835
+        Beugnet, D. (2024). _Opportunity Realized: Successful Implementation of Undergraduate Research at Three Geographically Diverse Community Colleges._ [Dissertation] https://repository.lib.fsu.edu/islandora/object/fsu:927835
 
 
 
