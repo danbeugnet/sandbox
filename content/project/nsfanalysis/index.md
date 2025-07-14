@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: NSF Funding Analysis
 date: 2023-10-26
-external_link: https://www.dropbox.com/scl/fi/k5r2xjvrh1v0yz3prpjt8/dan-beugnet-pathways-evaluation-report-2023.pdf?rlkey=tp03im9umdnwxvun0hdqa7u7x&st=hyoi0pae&dl=0
+external_link: https://www.dropbox.com/scl/fi/ybi6jy03rq1v941dacrds/dan-beugnet-nsf-funding-analysis.pdf?rlkey=7yxqv2arqtzzphan05oq4o3dg&st=3x7wqhmn&dl=0
 tags:
   
 
 
 ---
 
-An evaluation of an early alert intervention at Tallahassee State College.
+An analysis that compares NSF funding awards at TSC with a defined peer group.
 
 <!--more-->
