@@ -16,7 +16,5 @@ This video from the 2024 Tallahassee State College Undergraduate Research Sympos
 
 {{< youtube https://www.youtube.com/watch?v=s_XNVd544yY >}}
 
-**Youtube**:
 
-    {{</* youtube w7Ft2ymGmfc */>}}
 
