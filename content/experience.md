@@ -15,7 +15,7 @@ sections:
       title: 'Publications'
       subtitle: ''
       text: |-
-        text: 'Beugnet, D. (2025). Book Review: Transforming Academic Culture and Curriculum: Integrating and Scaffolding Research Throughout Undergraduate Education, by M. Malachowski, E. Ambos, K. Karukstis, J. Kinzie, and J. Osborn (Eds.). Scholarship and Practice of Undergraduate Research, 8(3), 60-61.'
+        'Beugnet, D. (2025). Book Review: Transforming Academic Culture and Curriculum: Integrating and Scaffolding Research Throughout Undergraduate Education, by M. Malachowski, E. Ambos, K. Karukstis, J. Kinzie, and J. Osborn (Eds.). _Scholarship and Practice of Undergraduate Research, 8_(3), 60-61.'
         url: https://doi.org/10.18833/spur/8/3/3
     
         
