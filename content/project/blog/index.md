@@ -1,5 +1,5 @@
 ---
-title: Undergraduate Research Program Semi-Weekly Newsletter
+title: 4. Undergraduate Research Program Semi-Weekly Newsletter
 date: 2023-10-26
 external_link: https://weekinur.blogspot.com/
 tags:
