@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Portfolio'
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Portfolio
       text: This page provides sample work products, including internal reports, program evaluations, and the like.
       filters:
         folders:
