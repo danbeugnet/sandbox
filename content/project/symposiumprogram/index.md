@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: TSC Undergraduate Research Sympsoium Program
 date: 2023-10-26
-external_link: https://www.dropbox.com/scl/fi/k5r2xjvrh1v0yz3prpjt8/dan-beugnet-pathways-evaluation-report-2023.pdf?rlkey=tp03im9umdnwxvun0hdqa7u7x&st=hyoi0pae&dl=0
+external_link: https://www.dropbox.com/scl/fi/w6s4miiqxmal4zkmpd5lj/dan-beugnet-ur-symposium-program-2025.pdf?rlkey=pjh3436vpxfstmb8ygz3xsxlf&st=xe7b8us4&dl=0
 tags:
   
 
 
 ---
 
-An evaluation of an early alert intervention at Tallahassee State College.
+Event program for the Sixth Annual TSC Undergraduate Research Symposium.
 
 <!--more-->
